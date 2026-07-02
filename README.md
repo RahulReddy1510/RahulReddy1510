@@ -1,5 +1,5 @@
 <h1 align="center">Heyy, This is Rahul!</h1>
-<h3 align="center">AI Engineer — LLMs · RAG Systems · Multi-Agent Architectures</h3>
+<h3 align="center">AI Engineer — LLMs · RAG Systems · Full Stack · Multi-Agent Architectures</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/koulury15"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
